@@ -1,0 +1,19 @@
+{
+  "name": "hackathon2025",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "fetch": "^1.1.0",
+    "node-fetch": "^3.3.2",
+    "request": "^2.88.2"
+  },
+  "description": "",
+  "type": "module"
+}
